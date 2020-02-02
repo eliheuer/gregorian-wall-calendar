@@ -13,4 +13,4 @@ python3 source/2020-02.py
 If that works there should be a new pdf in the [pdfs](pdfs) directory, and a new png in the [images](images) directory.
 
 ## Building from Source on Linux
-Unfortunatly DrawBot is macOS only software for now, but I plan to help port it to Linux this year, so please reach out to me if you would like to help with this effort.
+Unfortunatley DrawBot is macOS only software for now, but I plan to help port it to Linux this year, so please reach out to me if you would like to help with this effort.
